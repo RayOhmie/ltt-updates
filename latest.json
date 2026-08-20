@@ -1,0 +1,17 @@
+{
+  "version": "1.16.8",
+  "notes": "修复\n· 更新替换程序时显示进度提示，并缩短退出后的等待时间",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "cba4ed91f16822c96c36c2b416296a6593c954ea5d63773c298512cb9befc0e7",
+  "size": 579234,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.8.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.8.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.8.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.8.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.8/app-v1.16.8.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.8.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.8.zip"
+  ]
+}
