@@ -1,0 +1,17 @@
+{
+  "version": "1.16.4",
+  "notes": "修复\n· 个股多周期点行业名后立即出现单切/双切，不再整屏遮罩；行业格整格可点，减少误点到个股",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "01cb62d2a2aaf8f598b9137efea9a3dade0daa77439c47b514e3bb6111421ee2",
+  "size": 577697,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.4.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.4.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.4.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.4.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.4/app-v1.16.4.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.4.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.4.zip"
+  ]
+}
