@@ -1,0 +1,17 @@
+{
+  "version": "1.16.10",
+  "notes": "修复\n· 更新完成后不再留下 PowerShell 窗口；新程序与更新脚本进程分离，关闭提示窗口不会退出软件",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "8e8c14218d66b9254199f82a7ef0c099a0b92a53b912c975172c46e86ff62e3f",
+  "size": 580009,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.10.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.10.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.10.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.10.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.10/app-v1.16.10.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.10.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.10.zip"
+  ]
+}
