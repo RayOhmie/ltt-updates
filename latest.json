@@ -1,0 +1,17 @@
+{
+  "version": "1.16.7",
+  "notes": "修复\n· 更新完成后自动清理换目录用的临时脚本",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "41b11903b3a556cbf33ab0cfbe92d5933d343d87f3a03ce1f6a61d60e7f87ba2",
+  "size": 577987,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.7.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.7.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.7.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.7.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.7/app-v1.16.7.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.7.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.7.zip"
+  ]
+}
