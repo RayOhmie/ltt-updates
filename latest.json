@@ -1,0 +1,17 @@
+{
+  "version": "1.16.1",
+  "notes": "v1.16.1",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "903af194cdba2e5674fd4c0bad3ea40b7ce14eacaab5f9103c58ffe80e1a4f64",
+  "size": 575381,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.1.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.1.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.1.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.1.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.1/app-v1.16.1.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.1.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.1.zip"
+  ]
+}
