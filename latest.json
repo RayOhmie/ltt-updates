@@ -1,0 +1,17 @@
+{
+  "version": "1.16.5",
+  "notes": "修复\n· 确认更新后在后台替换程序目录并自动启动新版，不再弹出命令行窗口",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "b286d3d5d565e1472622a8e97d920ca4204462e4b332716ca941253aa6442be6",
+  "size": 578020,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.5.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.5.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.5.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.5.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.5/app-v1.16.5.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.5.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.5.zip"
+  ]
+}
