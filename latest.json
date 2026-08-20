@@ -1,0 +1,17 @@
+{
+  "version": "1.16.3",
+  "notes": "修复\n· 确认更新后自动替换程序并重启；修复退出后未替换、也未拉起新版\n· 更新用的临时文件在完成后立即清理\n\n新增\n· 发现新版本时，确认窗口展示本版更新说明",
+  "publishedAt": "2026-08-20",
+  "electron": "43.4.0",
+  "sha256": "71747ebb88a5f6e89ab728bf39e6a22f0dd359e33de317bf7f3f998d2473400e",
+  "size": 577567,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.3.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.3.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.3.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.3.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.3/app-v1.16.3.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.3.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.3.zip"
+  ]
+}
