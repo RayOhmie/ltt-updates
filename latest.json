@@ -1,0 +1,17 @@
+{
+  "version": "1.18.0",
+  "notes": "新增\n· 个股多周期在全部行业下悬停某行（未点该行、未点行业）时，在左侧行业板块栏与个股表上层浮出不透明对照表（列序：60日…净比、个股名）\n· 问号右侧齿轮打开设置浮窗：左侧快捷键，右侧总开关、位置、范围、排序与显示列\n· 对照表按弹出时的鼠标位置决定左右（右显示时个股列在最左，左显示时个股列在最右），显示期间不换边，以免挡住锁定后移入滚轮翻看\n· 设置中可关闭整个悬停对照表功能\n· 齿轮右侧用行业色标出当前排名前100中个股最多的行业（最多 5 个，一行放不下则自动少显示）\n· 顶部灰色操作说明移入问号浮窗的「操作指导」页签",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "542ffac7b9b2bad3e2d71d3672f29b92836af8c8ebe894a6f88d3f3bd7f8816c",
+  "size": 592010,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.0/app-v1.18.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.0.zip"
+  ]
+}
