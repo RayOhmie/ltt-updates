@@ -1,0 +1,17 @@
+{
+  "version": "1.16.12",
+  "notes": "修复\n· 退出主程序及增量更新前回收当前安装目录下的桥接进程，避免 `bridge` 里的 Python 文件持续占用程序目录\n· 支持绿色版根目录的 `bridge` 路径；即使桥接由旧版本或外部进程启动，也会在退出时识别并结束",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "71a0d191e95917d8ede95e53564f99d964a9e28e32018f13b8485ca6afedbd81",
+  "size": 583057,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.12.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.12.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.12.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.12.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.12/app-v1.16.12.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.12.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.12.zip"
+  ]
+}
