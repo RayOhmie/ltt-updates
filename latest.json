@@ -1,0 +1,17 @@
+{
+  "version": "1.16.14",
+  "notes": "调整\n· 替换进度窗改回浅色系统对话框，只显示版本号与当前任务\n\n修复\n· 进度窗从程序目录读取版本号，避免由旧版拉起时当前/目标版本显示为空",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "937447c7ac436444527511ccd7625f3e2d58b58db2f0f051f9930256034f4934",
+  "size": 584589,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.14.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.14.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.14.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.14.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.14/app-v1.16.14.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.14.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.14.zip"
+  ]
+}
