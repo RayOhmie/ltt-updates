@@ -1,0 +1,17 @@
+{
+  "version": "1.17.0",
+  "notes": "新增\n· 个股多周期在全部行业下悬停某行，同行业个股名称用该行业色同步高亮，整行加黄色边框\n· 点行业单切后，个股表把该行业中全部行业排名前 100 的个股用浅蓝底标出",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "318c45b67e7a182597c3d91e28706a27d45c33fb747221799407adba31fb9c61",
+  "size": 585045,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.17.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.17.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.17.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.17.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.17.0/app-v1.17.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.17.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.17.0.zip"
+  ]
+}
