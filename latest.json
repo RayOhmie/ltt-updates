@@ -1,0 +1,17 @@
+{
+  "version": "1.16.15",
+  "notes": "调整\n· 更新确认/进度浮窗主按钮改回琥珀色，顶栏与新版本底色改为浅蓝",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "5409fa0404b42a637077c6863224550a741038df8e6c22461f5df7c221b5d9f8",
+  "size": 584506,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.15.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.15.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.15.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.15.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.15/app-v1.16.15.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.15.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.15.zip"
+  ]
+}
