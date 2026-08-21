@@ -1,0 +1,4 @@
+# ltt-updates
+
+`latest.json`
+

@@ -1,0 +1,17 @@
+{
+  "version": "1.16.11",
+  "notes": "修复\n· 退出时结束资金流桥接进程，避免占用安装目录；本机 8899 已被占用时不再重复拉起",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "d6e698107b338572eb9fb91db93f658a86d62a701b0ce0b19257578bfd9e41bb",
+  "size": 580211,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.16.11.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.16.11.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.11.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.16.11.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.16.11/app-v1.16.11.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.16.11.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.16.11.zip"
+  ]
+}
