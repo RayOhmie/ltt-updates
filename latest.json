@@ -1,0 +1,17 @@
+{
+  "version": "1.18.2",
+  "notes": "调整\n· 个股多周期齿轮右侧行业色标可点，等同单切：刷新个股表并进入该行业对照表的锁定+隐藏，可用 H / 显隐按钮切换\n· 齿轮旁锁定、显隐由状态标记改为可点按钮，配色不变",
+  "publishedAt": "2026-08-21",
+  "electron": "43.4.0",
+  "sha256": "87310cea6f898519246ff2852f67110e8aabe4ac1449b5833f6ba82ffbf8bd9a",
+  "size": 592204,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.2.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.2.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.2.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.2.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.2/app-v1.18.2.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.2.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.2.zip"
+  ]
+}
