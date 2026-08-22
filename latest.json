@@ -1,0 +1,17 @@
+{
+  "version": "1.18.6",
+  "notes": "调整\n· 个股多周期双切时，个股表对强度前100用与单切相同的蓝底+未涨停金黄名\n· 去掉齿轮右侧「前100最多」四字",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "1a6bb7ee64f25c7e31a355f31d3fbee00130e85cf27f907d4f747914016edf81",
+  "size": 592240,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.6.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.6.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.6.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.6.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.6/app-v1.18.6.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.6.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.6.zip"
+  ]
+}
