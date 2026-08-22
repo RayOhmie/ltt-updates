@@ -1,0 +1,17 @@
+{
+  "version": "1.18.9",
+  "notes": "调整\n· 个股多周期悬停表在界面左侧时，「个股」列头右对齐\n· 齿轮右侧行业色标候选增至 7 个，仍按一行可用宽度自动少显示",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "5d90bb5a36b8f53b1f3c42126c3d999201c9875d0688b5f3ffbfd65b8c3bdd8f",
+  "size": 592680,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.9.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.9.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.9.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.9.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.9/app-v1.18.9.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.9.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.9.zip"
+  ]
+}
