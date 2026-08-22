@@ -1,0 +1,17 @@
+{
+  "version": "1.18.5",
+  "notes": "调整\n· 个股多周期对照表的锁定、显隐按钮移到标题行（统计文字右侧）",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "07d513ccc63a344fb4cc69d1fd43416659d2164c935dee8b71077c5c7b23143f",
+  "size": 592240,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.5.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.5.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.5.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.5.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.5/app-v1.18.5.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.5.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.5.zip"
+  ]
+}
