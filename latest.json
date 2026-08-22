@@ -1,0 +1,17 @@
+{
+  "version": "1.19.6",
+  "notes": "修复\n· 分时 09:30 开盘大单纳入买入/卖出判定，关闭「大单买入」后开盘红柱一并隐藏（六窗口与大屏）\n· 切换大单买入/卖出时，散点与对应量柱同步显隐；隐藏一侧不再退回普通柱，Y 轴按全部分量固定\n· 分时浮窗价格按该分钟涨跌着色，并标明大单买入/卖出，补充分钟成交额\n· 休市不再把墙上周末标成交易日：分时仍展示上一交易日收盘数据，顶栏/底栏改为休市并标注上一交易日\n\n调整\n· 分时方向「买 / 卖」改为「大单买入 / 大单卖出」，圆点与文字跟涨跌色同步明暗；全屏去掉关闭按钮下方重复图例\n· 个股多周期设置快捷键下方补充「排行前100最多行业」说明与色标截图",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "980fb03e19a47121c7f425d6d632cac494bd2fbfd2bb1f6cd0e9499e1af3c745",
+  "size": 605459,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.6.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.6.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.6.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.6.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.6/app-v1.19.6.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.6.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.6.zip"
+  ]
+}
