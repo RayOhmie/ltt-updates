@@ -1,0 +1,17 @@
+{
+  "version": "1.19.8",
+  "notes": "调整\n· 底栏主力净额来源改为直述：资金流桥接 / 成交额估算且桥接未就绪\n· 软件设置去掉「140% 档为 1920×1080 分辨率优化」说明",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "58615fe06926cc9e27bbf20ece7a09eed6d7980eb5d6ab7808b24354223acb22",
+  "size": 605379,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.8.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.8.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.8.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.8.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.8/app-v1.19.8.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.8.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.8.zip"
+  ]
+}
