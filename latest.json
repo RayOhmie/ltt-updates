@@ -1,0 +1,17 @@
+{
+  "version": "1.18.7",
+  "notes": "调整\n· 个股多周期标题行锁定按钮前增加「悬停表状态：」，竖线与齿轮右侧第一枚行业色标左缘对齐\n· 个股表主板 / 创业板 / 科创板 / ST 用对应色文字跟在代码后，顶部筛选按钮配色同步；涨停色块与名称水平对齐",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "bc18eac606883a5e9191d3c0f4fa3a1303be4209316e45d2b63cece7bad4c165",
+  "size": 592467,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.18.7.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.18.7.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.7.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.18.7.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.18.7/app-v1.18.7.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.18.7.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.18.7.zip"
+  ]
+}
