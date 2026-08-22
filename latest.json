@@ -1,0 +1,17 @@
+{
+  "version": "1.19.10",
+  "notes": "调整\n· 周末/节假日休市不再跑 12 秒行情 tick 和 30 秒全量重载，点刷新仍可手动更新",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "44f9a9df49782389429b7ec4a82ae32fa95198a9b20fa82f74129646050316e2",
+  "size": 605480,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.10.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.10.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.10.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.10.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.10/app-v1.19.10.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.10.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.10.zip"
+  ]
+}
