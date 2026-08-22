@@ -1,0 +1,17 @@
+{
+  "version": "1.19.3",
+  "notes": "调整\n· 个股多周期点行业弹出单切 / 双切时增加取消按钮，可直接关掉选择",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "f80e44625ad160a4f639bdd9241169da5fe80d54f627b45415784a68278fa63e",
+  "size": 593527,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.3.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.3.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.3.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.3.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.3/app-v1.19.3.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.3.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.3.zip"
+  ]
+}
