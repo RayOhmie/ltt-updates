@@ -1,0 +1,17 @@
+{
+  "version": "1.19.2",
+  "notes": "调整\n· 早盘竞价四个页签的个股列不再显示行业；三个默认榜的题材列移到个股右侧，点题材名与临时策略一样筛选个股表",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "23dfd31f52888e3991e566e413d255ebc720858e95df30574cb767008f9e3366",
+  "size": 593376,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.2.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.2.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.2.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.2.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.2/app-v1.19.2.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.2.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.2.zip"
+  ]
+}
