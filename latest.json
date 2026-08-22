@@ -1,0 +1,17 @@
+{
+  "version": "1.19.9",
+  "notes": "调整\n· 休市时若资金流桥接已连通但无分笔，底栏改为「已连接（休市无分笔）」，不再误报未就绪",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "18eb705b11927a7c197469c493dbdbc10aaad3c962cdc9aa876be8f870de62c5",
+  "size": 605462,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.9.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.9.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.9.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.9.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.9/app-v1.19.9.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.9.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.9.zip"
+  ]
+}
