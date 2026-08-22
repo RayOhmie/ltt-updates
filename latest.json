@@ -1,0 +1,17 @@
+{
+  "version": "1.19.0",
+  "notes": "新增\n· 涨幅天梯个股后显示代码、行业、板块、连板与涨停状态，样式与个股表一致\n· 六窗口 K 线行业标签可点击，筛选左侧个股表\n· 左栏行业/概念成员名称后显示涨停状态；热门个股行业后再标主板/科创/创业/ST\n· 早盘竞价个股列补充板块、涨停状态与实际连板数",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "5c9f20dfedf5df9a33a8d9ea861b3a020e8a682077be947c156ae7b669b3b6c0",
+  "size": 592983,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.0/app-v1.19.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.0.zip"
+  ]
+}
