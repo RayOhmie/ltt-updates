@@ -1,0 +1,17 @@
+{
+  "version": "1.19.1",
+  "notes": "修复\n· 六窗口分时「大单≥全部」不再空白，改为显示每一根有成交的分钟大单\n\n调整\n· 分时大屏同样提供大单门槛与买卖方向筛选\n· 六窗口行业标签固定为可点高亮样式\n· 板块多周期点击整行即可筛选个股表\n· 早盘竞价个股列在板块前补行业\n· 个股表顶部筛选单击仍开关，双击只保留该条件",
+  "publishedAt": "2026-08-22",
+  "electron": "43.4.0",
+  "sha256": "9c3645bcb5e82d594beace85378830892cae961ba28b9518ecdb166efdd62751",
+  "size": 593423,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.1.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.1.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.1.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.1.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.1/app-v1.19.1.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.1.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.1.zip"
+  ]
+}
