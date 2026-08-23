@@ -1,0 +1,17 @@
+{
+  "version": "1.19.14",
+  "notes": "功能\n· 悬停对照表顶栏行业行可点出单切 / 双切 / 取消（水平居中），隔离层与配色与原表一致",
+  "publishedAt": "2026-08-23",
+  "electron": "43.4.0",
+  "sha256": "06e315988590954f6dfdfee929a70a8508dc361e2590f06485e4609de0a9daeb",
+  "size": 606613,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.14.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.14.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.14.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.14.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.14/app-v1.19.14.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.14.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.14.zip"
+  ]
+}
