@@ -1,0 +1,17 @@
+{
+  "version": "1.19.13",
+  "notes": "功能\n· 悬停对照表可点整行进入六窗口，返回后仍显示锁定的对照表；表内行悬停浅底与原表相同\n\n调整\n· 悬停对照表在左侧时，个股列名称和代码右对齐",
+  "publishedAt": "2026-08-23",
+  "electron": "43.4.0",
+  "sha256": "f4e092364f321fdb2718ccbb9d4d1468db4a06a03b2616e4154662c72c32498a",
+  "size": 606268,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.13.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.13.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.13.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.13.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.13/app-v1.19.13.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.13.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.13.zip"
+  ]
+}
