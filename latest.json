@@ -1,0 +1,17 @@
+{
+  "version": "1.19.15",
+  "notes": "功能\n· 悬停对照表与齿轮右侧行业的强度范围可在设置里改为 1～500，默认 200\n· 信号雷达每种类型第一条强度条左侧可打开强度说明浮窗",
+  "publishedAt": "2026-08-23",
+  "electron": "43.4.0",
+  "sha256": "544b9daae53d50309cd4eef50f137ab1603f47c1d7b580e843b930281147c565",
+  "size": 609154,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.15.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.15.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.15.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.15.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.15/app-v1.19.15.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.15.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.15.zip"
+  ]
+}
