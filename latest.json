@@ -1,0 +1,17 @@
+{
+  "version": "1.25.0",
+  "notes": "功能\n· Windows / macOS 一次性绿色包内置资金流桥接运行库（便携 Python + pytdx），解压即由主程序拉起，不再另发桥接压缩包、也不再要用户手动装环境\n· 桥接放在增量更新不会覆盖的位置：Windows 为安装根目录 `bridge/`，macOS 为 `.app/Contents/Resources/bridge`\n\n调整\n· `npm run pack` / `npm run pack:mac` 打包前自动组装对应平台运行库；`npm run pack:update` 仍只含 `resources/app`，禁止打进 Python\n· 增量更新用于两端对齐到同一版本号；已装用户仍用原来的旁路 `bridge`，内置运行库只在完整绿色包里",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "823f1f02323148cc44b0c278f982bf45953df07256f81cfeca43ec1711a21160",
+  "size": 626110,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.25.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.25.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.25.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.25.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.25.0/app-v1.25.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.25.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.25.0.zip"
+  ]
+}
