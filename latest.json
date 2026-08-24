@@ -1,0 +1,17 @@
+{
+  "version": "1.22.0",
+  "notes": "功能\n· 四栏宽度以「个股多周期主表 + 左侧悬停表」能完整显示（悬停表个股名不省略）为统一标准；各页签共用这套宽度，不随切换改栏。用户拖拽后锁定，恢复默认栏宽才重新自动分配\n· 关注个股、涨幅天梯、板块多周期、个股多周期按内容权重均分列宽，不再把空位全给名称列\n· 涨幅天梯名称列单行完整显示（代码、行业、板块与涨停标志不折行）\n· 个股多周期悬停表：在表上下沿之间左右移动不换边，从这条带外面左右移动才摆到对侧；点顶栏弹出单切/双切后，鼠标往下进表也不换边\n\n调整\n· 收藏黄星只留在六窗口K线名称前",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "ed3407e4f013819d83ae357dc70ea8ba83aaa570be1d8223f15260cea50df5a1",
+  "size": 619869,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.22.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.22.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.22.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.22.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.22.0/app-v1.22.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.22.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.22.0.zip"
+  ]
+}
