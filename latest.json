@@ -1,0 +1,17 @@
+{
+  "version": "1.26.0",
+  "notes": "功能\n· 顶栏刷新按钮左侧空白居中增加「来源分级」开关，控制各处板块名旁的同花顺来源/级别显隐（本机记住）\n· 同一套代码支持 macOS 桌面客户端；增量更新两端共用一份 zip，只替换 resources/app\n· Windows / macOS 完整绿色包内置资金流桥接运行库，解压即可拉起；增量更新不打进 Python\n\n调整\n· 资金监控：净流入、净流出榜叠在左侧且板块名完整显示，右侧条形图加宽；纵坐标只留板块名，减少与柱体重叠",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "edc8d6e69abc524606623ae7cd66d6bbc18c2351254a9f3d1c803818f19d865a",
+  "size": 626385,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.26.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.26.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.26.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.26.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.26.0/app-v1.26.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.26.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.26.0.zip"
+  ]
+}
