@@ -1,0 +1,17 @@
+{
+  "version": "1.19.16",
+  "notes": "测试版本，仅供内部调试。\n\n调整\n· 行业/概念板块、板块多周期、资金监控的板块名后标注同花顺来源；行业再标二级或三级",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "939123a0aeb7c3b830b6895b2c88a1d0defea7f5d0ebb6ec2067790e57ec4c66",
+  "size": 609494,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.19.16.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.19.16.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.16.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.19.16.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.19.16/app-v1.19.16.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.19.16.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.19.16.zip"
+  ]
+}
