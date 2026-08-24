@@ -1,0 +1,17 @@
+{
+  "version": "1.23.3",
+  "notes": "功能\n· 各处个股可右键「收藏」加入关注；已关注的再出「取消关注」，先进入回收站\n· 关注个股页底栏回收站可还原或彻底删除；已关注个股在名称旁显示黄星\n\n调整\n· 收藏黄星：关注个股、涨幅天梯、六窗口K线在名称前（涨幅天梯单独一列无列名）；其余在名称后\n· 个股表名称、收藏星、涨停/跌停同一行；列表整行右键即可收藏\n· 策略扫描结果去掉「K线」按钮；除信号说明外各列单行，行业属性仍两行",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "53e998a6a198ddadae06cc1e575e42b6f108099ef6d3e32ada255f6b9d730f23",
+  "size": 622720,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.23.3.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.23.3.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.23.3.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.23.3.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.23.3/app-v1.23.3.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.23.3.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.23.3.zip"
+  ]
+}
