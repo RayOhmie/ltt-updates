@@ -1,0 +1,17 @@
+{
+  "version": "1.26.2",
+  "notes": "调整\n· 资金监控标题始终在整页水平居中，开关来源分级时不再左右挪动\n· 资金监控左侧「净流入」下移到标题下一行，不再与中间标题平齐",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "7179ebb38c0fb7cc490d4b347ef1a5489fd973de7820a88c00337ddc672da72d",
+  "size": 626407,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.26.2.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.26.2.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.26.2.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.26.2.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.26.2/app-v1.26.2.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.26.2.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.26.2.zip"
+  ]
+}
