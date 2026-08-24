@@ -1,0 +1,17 @@
+{
+  "version": "1.21.0",
+  "notes": "功能\n· 中央页签新增「关注个股」：点各处个股名后的黄星收藏（六窗口K线在名字前），列表显示行业、竞价幅、现涨幅、量比、涨速、5日、10日、主力净额、主力净比、成交额",
+  "publishedAt": "2026-08-24",
+  "electron": "43.4.0",
+  "sha256": "5ade984d6c0072892f8e74e262c2b26090228090732e594db1d41ab2a9e27068",
+  "size": 618850,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.21.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.21.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.21.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.21.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.21.0/app-v1.21.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.21.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.21.0.zip"
+  ]
+}
