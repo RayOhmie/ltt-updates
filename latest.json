@@ -1,0 +1,17 @@
+{
+  "version": "1.27.6",
+  "notes": "功能\n· 新增「涨幅占比」页：按成分股涨幅大于/小于所选阈值的占比给行业与概念排名，默认 5%，可点选其他阈值\n\n调整\n· 涨幅占比增加「含ST」开关（默认关闭）；「其他」阈值在说明行靠右展开，行高预留不跳动\n· 资金监控标题居中，红绿图例在标题正下方，右侧只保留「主力净额 = 超大单 + 大单」；开关来源分级时布局不左右挪\n\n修复\n· 涨幅占比的总数、达标与个股表默认口径对齐",
+  "publishedAt": "2026-08-25",
+  "electron": "43.4.0",
+  "sha256": "5efcff512d510e5069fd597d04f8b343fc728481f79f1d82837345bfcc3d5241",
+  "size": 628102,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.27.6.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.27.6.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.27.6.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.27.6.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.27.6/app-v1.27.6.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.27.6.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.27.6.zip"
+  ]
+}
