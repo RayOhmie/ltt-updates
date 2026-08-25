@@ -1,0 +1,17 @@
+{
+  "version": "1.28.0",
+  "notes": "功能\n· 多因子共振增加涨幅占比 12 档阈值因子（全部板块按占比降序），参数为排名前 N",
+  "publishedAt": "2026-08-25",
+  "electron": "43.4.0",
+  "sha256": "10f3f8bc42bc9e93ae39d89ec38330940b9c5534afc60d9363b0eb650d2a4650",
+  "size": 628610,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.28.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.28.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.28.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.28.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.28.0/app-v1.28.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.28.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.28.0.zip"
+  ]
+}
