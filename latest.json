@@ -1,0 +1,17 @@
+{
+  "version": "1.29.1",
+  "notes": "修复\n· 缓存改为资源级 TTL：板块 K 线、行业/概念成员互不污染；失败保留旧值并短退避，空结果不再挡住重试\n· 交易日、涨跌停规则、沙盘 T+1、订单日期统一按上海日历；主板 ST 自 2026-07-06 起按 10% 限幅\n· 12 秒 tick 更换快照引用并按真实涨跌停价重算状态，连板数不再短路成涨停\n· 涨停池区分真实空与双源失败；梯队「晋级率」改为可证明的截面占比\n· 行业/概念统一按成员等权聚合，指数涨幅独立字段；涨停原因不再写入概念\n· 板块筛选携带 kind/thscode，涨幅占比的含 ST 口径可传到个股表\n· 桥接 watch/flow 失败立即降级，相同关注集合不再清空重播；退出只回收本应用拉起的桥接进程\n· 选中标的区分个股与指数，避免上证指数撞上 000001 个股\n· 复盘不再把当前全市场快照标成历史日期；隐藏页面暂停轮询，恢复后只补一次\n· 回测计入佣金/印花税，一字涨跌停不可成交；普通策略与因子共振共用同一结算",
+  "publishedAt": "2026-08-29",
+  "electron": "43.4.0",
+  "sha256": "2f2889667847caea56ee291f375b35797b9cab37e216245c27fb84c07ab4c2c1",
+  "size": 633961,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.29.1.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.29.1.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.29.1.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.29.1.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.29.1/app-v1.29.1.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.29.1.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.29.1.zip"
+  ]
+}
