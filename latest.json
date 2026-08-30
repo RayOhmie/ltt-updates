@@ -1,0 +1,17 @@
+{
+  "version": "1.31.0",
+  "notes": "功能\n· 多因子共振成交额区间增加 500万～10亿常用预设下拉；上限/下限互斥，只能选或填比对侧更大/更小的值",
+  "publishedAt": "2026-08-30",
+  "electron": "43.4.0",
+  "sha256": "318495c42a612ed4916b7474bc53ed88d8592553849e1ee69d2d76e2425d8759",
+  "size": 636874,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.31.0.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.31.0.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.31.0.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.31.0.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.31.0/app-v1.31.0.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.31.0.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.31.0.zip"
+  ]
+}
