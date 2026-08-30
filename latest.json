@@ -1,0 +1,17 @@
+{
+  "version": "1.30.1",
+  "notes": "调整\n· 多因子共振区间因子的下限输入与上方参数滑条左对齐",
+  "publishedAt": "2026-08-30",
+  "electron": "43.4.0",
+  "sha256": "5a3e6417310216e0e7c902fa73d505f88ee06e1bcebe4918af089c6c93b75ac4",
+  "size": 635514,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.30.1.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.30.1.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.30.1.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.30.1.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.30.1/app-v1.30.1.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.30.1.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.30.1.zip"
+  ]
+}
