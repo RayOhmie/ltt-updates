@@ -1,0 +1,17 @@
+{
+  "version": "1.31.1",
+  "notes": "修复\n· 全市场快照不再只依赖 stock-sdk 的 linkdiary 代码表 CDN：该源 SSL 失败时改为新浪沪/深 A 列表与东财 clist 竞速兜底，再按代码批量拉腾讯行情；成功列表写入本地缓存",
+  "publishedAt": "2026-09-04",
+  "electron": "43.4.0",
+  "sha256": "e5fed9250d7b8a9022e1170b81a26ab89648840182bc421d1841c222f84bea7a",
+  "size": 638449,
+  "urls": [
+    "https://gitee.com/rayohmie/ltt-updates/raw/main/app-v1.31.1.zip",
+    "https://gitee.com/rayohmie/ltt-updates/raw/master/app-v1.31.1.zip",
+    "https://cdn.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.31.1.zip",
+    "https://fastly.jsdelivr.net/gh/RayOhmie/ltt-updates@main/app-v1.31.1.zip",
+    "https://github.com/RayOhmie/ltt-updates/releases/download/v1.31.1/app-v1.31.1.zip",
+    "https://raw.gitmirror.com/RayOhmie/ltt-updates/main/app-v1.31.1.zip",
+    "https://raw.githubusercontent.com/RayOhmie/ltt-updates/main/app-v1.31.1.zip"
+  ]
+}
